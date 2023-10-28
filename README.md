@@ -1,1 +1,1 @@
-druniverse.github.io
+druniversecompetition.github.io
